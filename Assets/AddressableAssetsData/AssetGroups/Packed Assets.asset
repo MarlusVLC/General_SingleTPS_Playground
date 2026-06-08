@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Packed Assets
   m_GUID: dc31f864b4f1da84f920e1c51e0d71cc
   m_SerializeEntries:
+  - m_GUID: 40449c042b2db074ca6452f1106de463
+    m_Address: Assets/Textures/Smiling Devil Emoji.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 43714b68324cc2c409d534d9874f2a2b
     m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Body.mat
     m_ReadOnly: 0
