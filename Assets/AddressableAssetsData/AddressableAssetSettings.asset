@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: dc31f864b4f1da84f920e1c51e0d71cc
   m_currentHash:
     serializedVersion: 2
-    Hash: 94ae46f30046f564c4920080c686a56c
+    Hash: fe5c38ee65c01d5509821cf912213314
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
   m_InternalIdNamingMode: 0
@@ -42,7 +42,6 @@ MonoBehaviour:
   m_BundleRedirectLimit: -1
   m_SharedBundleSettings: 0
   m_SharedBundleSettingsCustomGroupIndex: 0
-  m_simulatedLoadDelay: 0.1
   m_ContiguousBundles: 1
   m_StripUnityVersionFromBundleBuild: 0
   m_DisableVisibleSubAssetRepresentations: 0
@@ -52,9 +51,9 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 77309fa4e6571114e9badbe16a59c2b1
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 77309fa4e6571114e9badbe16a59c2b1
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -78,7 +77,7 @@ MonoBehaviour:
       - m_Id: 891e9802afa48594fa49109dd090c3d8
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: c7dd4cd66370aa348a4e92cb3863f57c
-        m_Value: <undefined>
+        m_Value: 'gs://marlus-addressables/[BuildTarget]'
       - m_Id: d791a4cb1035bc344b7767cd47fa6792
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
     m_ProfileEntryNames:
@@ -101,6 +100,7 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - UI
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: b0a37cd212bb7f745b5d2c433868200c, type: 2}
