@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: dc31f864b4f1da84f920e1c51e0d71cc
   m_currentHash:
     serializedVersion: 2
-    Hash: fe5c38ee65c01d5509821cf912213314
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_CatalogRequestsTimeout: 0
@@ -77,7 +77,7 @@ MonoBehaviour:
       - m_Id: 891e9802afa48594fa49109dd090c3d8
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: c7dd4cd66370aa348a4e92cb3863f57c
-        m_Value: 'gs://marlus-addressables/[BuildTarget]'
+        m_Value: 'https://storage.googleapis.com/marlus-addressables/[BuildTarget]'
       - m_Id: d791a4cb1035bc344b7767cd47fa6792
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
     m_ProfileEntryNames:
